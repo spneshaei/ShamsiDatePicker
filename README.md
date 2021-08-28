@@ -2,11 +2,11 @@
 
 An easy-to-use SwiftUI date picker for Shamsi (Persian) calendar.
 
-<img alt="ShamsiDatePicker in iOS" src="images/iPhone.png?raw=true" width="100" />
-<img alt="ShamsiDatePicker in iOS with Dark Mode" src="images/iPhoneDark.png?raw=true" width="100" />
+<img alt="ShamsiDatePicker in iOS" src="images/iPhone.png?raw=true" width="175" />
+<img alt="ShamsiDatePicker in iOS with Dark Mode" src="images/iPhoneDark.png?raw=true" width="175" />
 
-<img alt="ShamsiDatePicker in Apple Watch" src="images/Watch.png?raw=true" width="50" />
-<img alt="ShamsiDatePicker in Apple Watch used in a `Form` view" src="images/WatchForm.png?raw=true" width="50" />
+<img alt="ShamsiDatePicker in Apple Watch" src="images/Watch.png?raw=true" width="75" />
+<img alt="ShamsiDatePicker in Apple Watch used in a `Form` view" src="images/WatchForm.png?raw=true" width="75" />
 
 ## Features
 
@@ -30,11 +30,11 @@ An easy-to-use SwiftUI date picker for Shamsi (Persian) calendar.
 ### Basic Usage
 
 To use `ShamsiDatePicker` in a SwiftUI view, you should import `ShamsiDatePicker` first:
-```
+```Swift
 import ShamsiDatePicker
 ```
 Then, you can start using `ShamsiDatePicker`:
-```
+```Swift
 struct ContentView: View {
     @State var date = Date()
     
@@ -46,7 +46,7 @@ struct ContentView: View {
 ### Setting a Range of Supported Dates
 
 To specify the minimum and maximum possible-to-select dates from `ShamsiDatePicker`, you can specify those dates in `ShamsiDatePicker`s initializer:
-```
+```Swift
 ShamsiDatePicker(selectedDate: $date, minDate: Date(timeIntervalSince1970: 0), maxDate: Date())
 ```
 
