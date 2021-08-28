@@ -59,4 +59,4 @@ ShamsiDatePicker(selectedDate: $date, minDate: Date(timeIntervalSince1970: 0), m
 
 ## License
 
-To see the license which is applied to all the files in the current repository, open `LICENSE.MD`. 
+To see the license which is applied to all the files in the current repository, open `LICENSE`. 
