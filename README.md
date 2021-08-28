@@ -7,8 +7,8 @@ An easy-to-use SwiftUI date picker for Shamsi (Persian) calendar.
 <img alt="ShamsiDatePicker in iOS with Dark Mode" src="images/iPhoneDark.png?raw=true" width="350" />
 </p>
 <p float="left">
-<img alt="ShamsiDatePicker in Apple Watch" src="images/Watch.png?raw=true" width="250" />
-<img alt="ShamsiDatePicker in Apple Watch used in a `Form` view" src="images/WatchForm.png?raw=true" width="250" />
+<img alt="ShamsiDatePicker in Apple Watch" src="images/Watch.png?raw=true" width="300" />
+<img alt="ShamsiDatePicker in Apple Watch used in a `Form` view" src="images/WatchForm.png?raw=true" width="300" />
 </p>
 
 ## Features
