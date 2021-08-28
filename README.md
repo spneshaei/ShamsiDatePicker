@@ -1,6 +1,6 @@
 # ShamsiDatePicker
 
-An easy-to-use SwiftUI iOS/watchOS date picker for Shamsi (Persian) calendar
+An easy-to-use SwiftUI iOS/watchOS date picker for Shamsi (Persian) calendar.
 
 <p float="left">
 <img alt="ShamsiDatePicker in iOS" src="images/iPhone.png?raw=true" width="350" />
